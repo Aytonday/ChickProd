@@ -1,0 +1,135 @@
+{
+  "productList" : [
+    {
+      "name": "Cobb Salad",
+      "maxKanban" : 4,
+      "maxPerKanban" : 10,
+      "ingredients": [
+        "lettuce"
+      ],
+      "proportions": [
+          3.0
+        ]
+    },
+    {
+      "name": "Southwest Salad",
+      "maxKanban" : 4,
+      "maxPerKanban" : 8,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Market Salad",
+      "maxKanban" : 4,
+      "maxPerKanban" : 8,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Side Salad",
+      "maxKanban" : 2,
+      "maxPerKanban" : 12,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Wraps",
+      "maxKanban" : 3,
+      "maxPerKanban" : 12,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Sm Fruit",
+      "maxKanban" : 2,
+      "maxPerKanban" : 12,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Md Fruit",
+      "maxKanban" : 3,
+      "maxPerKanban" : 12,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Lg Fruit",
+      "maxKanban" : 2,
+      "maxPerKanban" : 6,
+      "ingredients": [
+        "lettuce"
+
+      ],
+        "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Parfiats",
+      "maxKanban" : 3,
+      "maxPerKanban" : 12,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Sm Superfood",
+      "maxKanban" : 2,
+      "maxPerKanban" : 12,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    },
+    {
+      "name": "Lg Superfood",
+      "maxKanban" : 2,
+      "maxPerKanban" : 6,
+      "ingredients": [
+        "lettuce"
+
+      ],
+      "proportions": [
+           3.0
+        ]
+    }
+    ]
+}
